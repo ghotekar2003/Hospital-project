@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#navbarNav{
+    font-size: 17px;
+}
+
+.nav-link{
+    color: white;
+}
+
+.footer{
+    font-size: 20px;
+    font-weight: 600;
+    background-color: rgb(55, 164, 207);
+}
